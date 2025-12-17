@@ -2,8 +2,141 @@
   {
     "objectID": "Online Appendix.html",
     "href": "Online Appendix.html",
-    "title": "Online Appendix",
+    "title": "Online Appendix of Master Thesis",
     "section": "",
-    "text": "Durchschnittliche Quartalswerte des Event Studies"
+    "text": "&lt;!DOCTYPE html&gt;\n\n\n\n\n\n\n\n\n\n\n\n\nTop 30 districts with the largest decline in nighttime lights (2020–2022)\n\n\n\n\nProvince\n\n\nDistrict\n\n\nLog change NTL\n\n\nChange (%)\n\n\n\n\n\n\nParwan\n\n\nBagram\n\n\n−1.431\n\n\n−76.1\n\n\n\n\nKabul\n\n\nDih Sabz\n\n\n−0.301\n\n\n−26.0\n\n\n\n\nKandahar\n\n\nKandahar City\n\n\n−0.243\n\n\n−21.6\n\n\n\n\nWardak\n\n\nMaydan Shahr\n\n\n−0.153\n\n\n−14.2\n\n\n\n\nKandahar\n\n\nDaman\n\n\n−0.153\n\n\n−14.2\n\n\n\n\nKabul\n\n\nKabul City\n\n\n−0.142\n\n\n−13.2\n\n\n\n\nBalkh\n\n\nDihdadi\n\n\n−0.112\n\n\n−10.6\n\n\n\n\nBalkh\n\n\nNahri Shahi\n\n\n−0.098\n\n\n−9.4\n\n\n\n\nBalkh\n\n\nMazar-i-Sharif\n\n\n−0.091\n\n\n−8.7\n\n\n\n\nKabul\n\n\nQarabagh\n\n\n−0.081\n\n\n−7.8\n\n\n\n\nParwan\n\n\nChaharikar\n\n\n−0.079\n\n\n−7.6\n\n\n\n\nKabul\n\n\nChahar Asyab\n\n\n−0.073\n\n\n−7.0\n\n\n\n\nKapisa\n\n\nKohistan\n\n\n−0.066\n\n\n−6.4\n\n\n\n\nKandahar\n\n\nArghandab\n\n\n−0.064\n\n\n−6.2\n\n\n\n\nKabul\n\n\nBagrami\n\n\n−0.064\n\n\n−6.2\n\n\n\n\nKabul\n\n\nPaghman\n\n\n−0.063\n\n\n−6.1\n\n\n\n\nKabul\n\n\nKalakan\n\n\n−0.047\n\n\n−4.6\n\n\n\n\nKunduz\n\n\nKunduz\n\n\n−0.046\n\n\n−4.5\n\n\n\n\nKapisa\n\n\nMahmud Raqi\n\n\n−0.042\n\n\n−4.1\n\n\n\n\nBalkh\n\n\nMarmul\n\n\n−0.037\n\n\n−3.6\n\n\n\n\nNangarhar\n\n\nRodat\n\n\n−0.036\n\n\n−3.6\n\n\n\n\nBalkh\n\n\nBalkh\n\n\n−0.036\n\n\n−3.6\n\n\n\n\nKabul\n\n\nShakar Dara\n\n\n−0.035\n\n\n−3.5\n\n\n\n\nFaryab\n\n\nKhwaja Sabz Posh\n\n\n−0.034\n\n\n−3.3\n\n\n\n\nParwan\n\n\nJabalussaraj\n\n\n−0.030\n\n\n−3.0\n\n\n\n\nKabul\n\n\nIstalif\n\n\n−0.030\n\n\n−2.9\n\n\n\n\nHilmand\n\n\nKajaki\n\n\n−0.026\n\n\n−2.6\n\n\n\n\nHilmand\n\n\nWasher\n\n\n−0.026\n\n\n−2.6\n\n\n\n\nLaghman\n\n\nMihtarlam\n\n\n−0.026\n\n\n−2.5\n\n\n\n\nHilmand\n\n\nLashkargah\n\n\n−0.024\n\n\n−2.4"
+  },
+  {
+    "objectID": "Zwischenergebnisse.html",
+    "href": "Zwischenergebnisse.html",
+    "title": "Results of my Master’s Thesis",
+    "section": "",
+    "text": "Opium Cultivation\nI expected a positive difference-in-difference effect for districts with pre-takeover opium poppy cultivation.\nIn general, I defined a district as poppy-cultivating if UNODC estimates indicated a cultivation area greater than 0 hectares in 2020.\n\nYearly DiDYearly EvStQuarterly EvSt\n\n\n\n\n                           did_poppy_21\nDependent Var.:                  ln_ntl\n                                       \ndummy_poppy_20 x post = 1 0.007 (0.007)\nFixed-Effects:            -------------\nGID_2                               Yes\nyear                                Yes\n_________________________ _____________\nS.E.: Clustered               by: GID_1\nObservations                        656\nR2                              0.97041\nWithin R2                       0.00096\n---\nSignif. codes: 0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1\n\n\\begingroup\n\\centering\n\\begin{tabular}{lc}\n   \\tabularnewline \\midrule \\midrule\n   Dependent Variable:                     & ln\\_ntl\\\\   \n   Model:                                  & (1)\\\\  \n   \\midrule\n   \\emph{Variables}\\\\\n   dummy\\_poppy\\_20 $\\times$ post $=$ 1    & 0.007\\\\   \n                                           & (0.007)\\\\   \n   \\midrule\n   \\emph{Fixed-effects}\\\\\n   GID\\_2                                  & Yes\\\\  \n   year                                    & Yes\\\\  \n   \\midrule\n   \\emph{Fit statistics}\\\\\n   Observations                            & 656\\\\  \n   R$^2$                                   & 0.97041\\\\  \n   Within R$^2$                            & 0.00096\\\\  \n   \\midrule \\midrule\n   \\multicolumn{2}{l}{\\emph{Clustered (GID\\_1) standard-errors in parentheses}}\\\\\n   \\multicolumn{2}{l}{\\emph{Signif. Codes: ***: 0.01, **: 0.05, *: 0.1}}\\\\\n\\end{tabular}\n\\par\\endgroup\n\n                           did_poppy_21\nDependent Var.:                  ln_ntl\n                                       \ndummy_poppy_20 x post = 1 0.007 (0.007)\nFixed-Effects:            -------------\nGID_2                               Yes\nyear                                Yes\n_________________________ _____________\nS.E.: Clustered               by: GID_1\nObservations                        656\nR2                              0.97041\nWithin R2                       0.00096\n---\nSignif. codes: 0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1\n\n\nThe variables ‘treated’ and ‘post’ have been removed because of collinearity. \n\n\nPoppy districts are defined as every district &gt; 0 ha poppy cultivation.\n\n\nWarning: Removed 6 rows containing missing values or values outside the scale range\n(`geom_text()`).\n\n\n\n\n\n\n\n\n\nTo test wether wether the intensity of poppy cultivation per district played a role I tested different definitions of poppy cultivation by varying the cutoff for when the binary treatment variable equals one. For the relative cutoffs, I divided the absolute poppy cultivation area of each district by its area of irrigated land.\n\n\n\n\n\n\n\n\n\nAcross all relative cutoffs there is no significant effect after Taliban takeover. For some cutoffs, significant coefficients appear in 2018 and 2019. This could point to different pre trends for districts with higher share of poppy cultivation.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPoppy Ban\nOn April 3 2022 the de-facto government announced a ban on Opium poppy cultivation with a two-month grace period covering the ongoing harvest.  Because of the grace period, it can be argued that the 2022 harvest was largely unaffected even though the ban was already announced. Farmers shifted towards wheat cultivation from the beginning of the sowing season around October and November 2022 . Because 80% of the opium harvest is sold by farmers within the same year it is likely that economic effects are seen in the next harvest season of 2023 .\nHence, I test two alternative event times of the ban: 2022 and in 2023.\nI expect a negative difference-in-diffrence effect on districts which cultivated opium poppy before the ban (became effective).\n\nYearly DiDYearly EvStQuarterly EvSt\n\n\n\n\n                        did_ban_22\nDependent Var.:             ln_ntl\n                                  \ntreated x post = 1 0.0016 (0.0084)\nFixed-Effects:     ---------------\ndistrict_fe                    Yes\ntime_fe                        Yes\n__________________ _______________\nS.E.: Clustered          by: GID_1\nR2                         0.97884\nObservations                   656\n---\nSignif. codes: 0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFor 2022 ban:\n\n\n\n\n\n\n\n\n\nFor 2023 “effective” ban\n\n\n\n\n\n\n\n\n\nQuarters 1 and 2 after the Taliban takeover show a positive effect, weakly significant (10%) effect.\n\n\n\n\n\nTaliban Control\nDuring the NATO mission, Afghanistan was never fully under the control of the Afghan government and its allies. I expect a positive difference-in-differences effect for districts that were already under Taliban control as of April 8, 2021 as I assumed these districts would experience less (economic) disruption.\n\n\nYearly DiDYearly EvStQuarterly EvSt\n\n\n                          did_tali\nDependent Var.: ln_ntl\ntali_cont_bin x post = 1 0.005 (0.004) Fixed-Effects: ————- GID_2 Yes year Yes ________________________ _____________ S.E.: Clustered by: GID_1 Observations 984 R2 0.97957 Within R2 0.00030 — Signif. codes: 0 ‘’ 0.001 ’’ 0.01 ’’ 0.05 ‘.’ 0.1 ’ ’ 1 did_tali\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNATO Installations\nThe NATO mission had installations in various districts across Afghanistan. I expect a negative difference-in-differences effect for districts with prior NATO installations, as these areas are likely to experience a greater change in the local economy due to the withdrawal of foreign forces and aid.\n\n\nYearly DiDYearly EvStQuarterly EvSt\n\n\n                  did_nato\nDependent Var.: ln_ntl\ntreat_post -0.014 (0.009) Fixed-Effects: ————– GID_2 Yes time_id Yes _______________ ______________ S.E.: Clustered by: GID_2 Observations 2,296 R2 0.96651 Within R2 0.00535 — Signif. codes: 0 ‘’ 0.001 ’’ 0.01 ’’ 0.05 ‘.’ 0.1 ’ ’ 1 treat_post -0.014 (0.010) S.E.: Clustered by: GID_1 did_nato Dependent Var.: ln_ntl\nany_military x post_2021 = 1 -0.020. (0.012) Fixed-Effects: ————— GID_2 Yes year Yes ____________________________ _______________ S.E.: Clustered by: GID_1 Observations 656 R2 0.97079 Within R2 0.01380\n\n\n\n\n\n\n\n\n\n\n\nThe negative effects in 2021 and 2022 are significant at the 10% level."
+  },
+  {
+    "objectID": "Quarterly Results (flawed).html",
+    "href": "Quarterly Results (flawed).html",
+    "title": "Quarterly Results of my Master’s Thesis",
+    "section": "",
+    "text": "This document presents the results of the quarterly event studies conducted for my Master’s Thesis using different specifications of fixed effects (FE).\nDuring my final presentation, we discussed whether I had employed yearly instead of quarterly fixed effects in order to better isolate the effects of my hypotheses from potential seasonal variations.\nUpon reviewing my code, I found that I had used time-unit fixed effects, meaning that each quarter was treated as a separate time period rather than as the same quarter across years. Therefore, I additionally experimented with specifications including (i) quarter fixed effects independent of the year and (ii) both quarter and year fixed effects simultaneously."
+  },
+  {
+    "objectID": "Quarterly Results (flawed).html#average-plots-over-time",
+    "href": "Quarterly Results (flawed).html#average-plots-over-time",
+    "title": "Quarterly Results of my Master’s Thesis",
+    "section": "Average Plots over Time",
+    "text": "Average Plots over Time\n\nH2 Taliban controlledH3 NATO installationsGeneral\n\n\n\n\n\n\n\n\n\n\n\nTo compare, here the yearly graph:\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTo compare, here the yearly graph:"
+  },
+  {
+    "objectID": "Quarterly Results (flawed).html#histogram",
+    "href": "Quarterly Results (flawed).html#histogram",
+    "title": "Quarterly Results of my Master’s Thesis",
+    "section": "Histogram",
+    "text": "Histogram\n\nH2 Taliban controlH3 NATO installations\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDistribution of Taliban-controlled vs. non-controlled districts\n\n\nTaliban Controlled\nCount\n\n\n\n\n0\n302\n\n\n1\n26\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTo compare, here the yearly graph:"
+  },
+  {
+    "objectID": "Quarterly Results (corrected).html",
+    "href": "Quarterly Results (corrected).html",
+    "title": "Corrected Quarterly Results of my Master’s Thesis",
+    "section": "",
+    "text": "This document presents the results of the quarterly event studies conducted for my Master’s Thesis using different specifications of fixed effects (FE).\nDuring my final presentation, we discussed whether I had employed yearly instead of quarterly fixed effects in order to better isolate the effects of my hypotheses from potential seasonal variations.\nUpon reviewing my code, I found that I had used time-unit fixed effects, meaning that each quarter was treated as a separate time period rather than as the same quarter across years. Therefore, I additionally experimented with specifications including (i) quarter fixed effects independent of the year and (ii) both quarter and year fixed effects simultaneously.\nI now also added plots of averages over time and histograms"
+  },
+  {
+    "objectID": "Quarterly Results (corrected).html#average-plots-over-time",
+    "href": "Quarterly Results (corrected).html#average-plots-over-time",
+    "title": "Corrected Quarterly Results of my Master’s Thesis",
+    "section": "Average Plots over Time",
+    "text": "Average Plots over Time\n\nH2 Taliban controlledH3 NATO installationsGeneral\n\n\n\n\n\n\n\n\n\n\n\nTo compare, here the yearly graph:\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTo compare, here the yearly graph:"
+  },
+  {
+    "objectID": "Quarterly Results (corrected).html#histograms",
+    "href": "Quarterly Results (corrected).html#histograms",
+    "title": "Corrected Quarterly Results of my Master’s Thesis",
+    "section": "Histograms",
+    "text": "Histograms\n\nH2 Taliban controlH3 NATO installations\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDistribution of Taliban-controlled vs. non-controlled districts\n\n\nTaliban Controlled\nCount\n\n\n\n\n0\n302\n\n\n1\n26\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTo compare, here the yearly graph:"
+  },
+  {
+    "objectID": "Quarterly Results (corrected).html#urbanity",
+    "href": "Quarterly Results (corrected).html#urbanity",
+    "title": "Corrected Quarterly Results of my Master’s Thesis",
+    "section": "Urbanity",
+    "text": "Urbanity\nTo understand whether the (NATO) effects are partly driven by urban–rural differences, I create a measure of “urbanity” using VIIRS Nighttime Lights.\nFor each district, I take the maximum quarterly radiance value (max_ntl) and place it in the percentile distribution of all districts. \n\n\n\n\n\n\nI then define three categories:\n\nmajor_urban: top 5% brightest districts\nmid_urban: 5% - 15% brightest districts\nrural: all remaining districts\n\n\nDescriptive pattern: Urbanity and NATO presence\nThe table below shows how many observations in each group are NATO-treated.\nThis is useful to see whether the treatment is spatially concentrated.\n\n\n\nUrbanity category\nn_total\nn_NATO\nshare NATO\n\n\n\n\nmajor_urban\n504\n336\n66.7%\n\n\nmid_urban\n840\n364\n43.3%"
+  },
+  {
+    "objectID": "Quarterly Results (corrected).html#urbanity-as-fixed-effect",
+    "href": "Quarterly Results (corrected).html#urbanity-as-fixed-effect",
+    "title": "Corrected Quarterly Results of my Master’s Thesis",
+    "section": "Urbanity as fixed effect",
+    "text": "Urbanity as fixed effect\nI created an urbanity category as explained before.\n\n\n\n\n\n\n\n\n\nevent_model_quart_nato_urbanFE &lt;- feols(\n  ln_ntl ~ i(event_time, any_military, ref = -1) |\n    GID_2 + time_id + urban_category,\n  data    = did_data_quart_nato,\n  cluster = ~GID_1\n)"
+  },
+  {
+    "objectID": "Quarterly Results (corrected).html#further-possible-models",
+    "href": "Quarterly Results (corrected).html#further-possible-models",
+    "title": "Corrected Quarterly Results of my Master’s Thesis",
+    "section": "Further possible models",
+    "text": "Further possible models\n\nExclude Province of Kabul\nProvince x Quarter FE (regional temporal shocks)\nDistrict-specific linear trends"
+  },
+  {
+    "objectID": "Online Appendix.html#taliban-control-yearly-event-study",
+    "href": "Online Appendix.html#taliban-control-yearly-event-study",
+    "title": "Online Appendix of Master Thesis",
+    "section": "Taliban Control – Yearly Event Study",
+    "text": "Taliban Control – Yearly Event Study\n\nYearly Event Study: Taliban Control (Treatment Year 2021)\n\n\nevent_time\nestimate\nstd.error\np.value\nsignif\n\n\n\n\n-3\n0.0043841\n0.0010434\n0.0001891\n***\n\n\n-2\n0.0033563\n0.0010545\n0.0031743\n**\n\n\n0\n0.0003630\n0.0023891\n0.8801716\n\n\n\n1\n0.0094217\n0.0060245\n0.1273838\n\n\n\n2\n0.0024752\n0.0070580\n0.7280509\n\n\n\n3\n-0.0075310\n0.0069111\n0.2837431"
+  },
+  {
+    "objectID": "Online Appendix.html#nato-installation-yearly-event-study",
+    "href": "Online Appendix.html#nato-installation-yearly-event-study",
+    "title": "Online Appendix of Master Thesis",
+    "section": "NATO installation – Yearly Event Study",
+    "text": "NATO installation – Yearly Event Study\n\nYearly Event Study: NATO installation (Treatment Year 2021)\n\n\nevent_time\nestimate\nstd.error\np.value\nsignif\n\n\n\n\n-3\n-0.0024397\n0.0016535\n0.1495606\n\n\n\n-2\n-0.0018445\n0.0012808\n0.1592406\n\n\n\n0\n-0.0077268\n0.0041382\n0.0707818\n(.)\n\n\n1\n-0.0203490\n0.0116441\n0.0898375\n(.)\n\n\n2\n-0.0184493\n0.0131278\n0.1692585\n\n\n\n3\n-0.0156481\n0.0130918\n0.2405045"
+  },
+  {
+    "objectID": "Online Appendix.html#taliban-control",
+    "href": "Online Appendix.html#taliban-control",
+    "title": "Online Appendix of Master Thesis",
+    "section": "Taliban Control",
+    "text": "Taliban Control\n\nYearly Event Study\n\nYearly Event Study: Taliban Control (Treatment Year 2021)\n\n\nevent_time\nestimate\nstd.error\np.value\nsignif\n\n\n\n\n-3\n0.0043841\n0.0010434\n0.0001891\n***\n\n\n-2\n0.0033563\n0.0010545\n0.0031743\n**\n\n\n0\n0.0003630\n0.0023891\n0.8801716\n\n\n\n1\n0.0094217\n0.0060245\n0.1273838\n\n\n\n2\n0.0024752\n0.0070580\n0.7280509\n\n\n\n3\n-0.0075310\n0.0069111\n0.2837431\n\n\n\n\n\n\nQuarterly Event Study\n\nQuarterly Event Study: Taliban Control (Treatment Year 2021)\n\n\nevent_time\nquarter\nestimate\nstd.error\np.value\nsignif\n\n\n\n\n-8\nQ3\n0.0699054\n0.0200970\n0.0014376\n**\n\n\n-7\nQ4\n0.0395019\n0.0226907\n0.0910214\n.\n\n\n-6\nQ1\n0.0081117\n0.0203551\n0.6928205\n\n\n\n-5\nQ2\n-0.0292351\n0.0230084\n0.2127462\n\n\n\n-4\nQ3\n0.1336406\n0.0290027\n0.0000583\n***\n\n\n-3\nQ4\n0.0831931\n0.0202507\n0.0002473\n***\n\n\n-2\nQ1\n0.0376790\n0.0131604\n0.0072361\n**\n\n\n0\nQ3\n0.0827584\n0.0203846\n0.0002838\n***\n\n\n1\nQ4\n0.1297274\n0.0251655\n0.0000117\n***\n\n\n2\nQ1\n0.0743988\n0.0139681\n0.0000070\n***\n\n\n3\nQ2\n0.0906673\n0.0173006\n0.0000091\n***\n\n\n4\nQ3\n0.0959506\n0.0252922\n0.0006019\n***\n\n\n5\nQ4\n0.0817719\n0.0297421\n0.0096106\n**\n\n\n6\nQ1\n0.0618980\n0.0188133\n0.0023880\n**\n\n\n7\nQ2\n0.0674097\n0.0288519\n0.0256915\n*\n\n\n8\nQ3\n0.1611561\n0.0293763\n0.0000044\n***"
+  },
+  {
+    "objectID": "Online Appendix.html#nato-installation",
+    "href": "Online Appendix.html#nato-installation",
+    "title": "Online Appendix of Master Thesis",
+    "section": "NATO installation",
+    "text": "NATO installation\n\nYearly Event Study\n\nYearly Event Study: NATO installation (Treatment Year 2021)\n\n\nevent_time\nestimate\nstd.error\np.value\nsignif\n\n\n\n\n-3\n-0.0024397\n0.0016535\n0.1495606\n\n\n\n-2\n-0.0018445\n0.0012808\n0.1592406\n\n\n\n0\n-0.0077268\n0.0041382\n0.0707818\n(.)\n\n\n1\n-0.0203490\n0.0116441\n0.0898375\n(.)\n\n\n2\n-0.0184493\n0.0131278\n0.1692585\n\n\n\n3\n-0.0156481\n0.0130918\n0.2405045"
+  },
+  {
+    "objectID": "Online Appendix.html#descriptive-statistic",
+    "href": "Online Appendix.html#descriptive-statistic",
+    "title": "Online Appendix of Master Thesis",
+    "section": "",
+    "text": "&lt;!DOCTYPE html&gt;\n\n\n\n\n\n\n\n\n\n\n\n\nTop 30 districts with the largest decline in nighttime lights (2020–2022)\n\n\n\n\nProvince\n\n\nDistrict\n\n\nLog change NTL\n\n\nChange (%)\n\n\n\n\n\n\nParwan\n\n\nBagram\n\n\n−1.431\n\n\n−76.1\n\n\n\n\nKabul\n\n\nDih Sabz\n\n\n−0.301\n\n\n−26.0\n\n\n\n\nKandahar\n\n\nKandahar City\n\n\n−0.243\n\n\n−21.6\n\n\n\n\nWardak\n\n\nMaydan Shahr\n\n\n−0.153\n\n\n−14.2\n\n\n\n\nKandahar\n\n\nDaman\n\n\n−0.153\n\n\n−14.2\n\n\n\n\nKabul\n\n\nKabul City\n\n\n−0.142\n\n\n−13.2\n\n\n\n\nBalkh\n\n\nDihdadi\n\n\n−0.112\n\n\n−10.6\n\n\n\n\nBalkh\n\n\nNahri Shahi\n\n\n−0.098\n\n\n−9.4\n\n\n\n\nBalkh\n\n\nMazar-i-Sharif\n\n\n−0.091\n\n\n−8.7\n\n\n\n\nKabul\n\n\nQarabagh\n\n\n−0.081\n\n\n−7.8\n\n\n\n\nParwan\n\n\nChaharikar\n\n\n−0.079\n\n\n−7.6\n\n\n\n\nKabul\n\n\nChahar Asyab\n\n\n−0.073\n\n\n−7.0\n\n\n\n\nKapisa\n\n\nKohistan\n\n\n−0.066\n\n\n−6.4\n\n\n\n\nKandahar\n\n\nArghandab\n\n\n−0.064\n\n\n−6.2\n\n\n\n\nKabul\n\n\nBagrami\n\n\n−0.064\n\n\n−6.2\n\n\n\n\nKabul\n\n\nPaghman\n\n\n−0.063\n\n\n−6.1\n\n\n\n\nKabul\n\n\nKalakan\n\n\n−0.047\n\n\n−4.6\n\n\n\n\nKunduz\n\n\nKunduz\n\n\n−0.046\n\n\n−4.5\n\n\n\n\nKapisa\n\n\nMahmud Raqi\n\n\n−0.042\n\n\n−4.1\n\n\n\n\nBalkh\n\n\nMarmul\n\n\n−0.037\n\n\n−3.6\n\n\n\n\nNangarhar\n\n\nRodat\n\n\n−0.036\n\n\n−3.6\n\n\n\n\nBalkh\n\n\nBalkh\n\n\n−0.036\n\n\n−3.6\n\n\n\n\nKabul\n\n\nShakar Dara\n\n\n−0.035\n\n\n−3.5\n\n\n\n\nFaryab\n\n\nKhwaja Sabz Posh\n\n\n−0.034\n\n\n−3.3\n\n\n\n\nParwan\n\n\nJabalussaraj\n\n\n−0.030\n\n\n−3.0\n\n\n\n\nKabul\n\n\nIstalif\n\n\n−0.030\n\n\n−2.9\n\n\n\n\nHilmand\n\n\nKajaki\n\n\n−0.026\n\n\n−2.6\n\n\n\n\nHilmand\n\n\nWasher\n\n\n−0.026\n\n\n−2.6\n\n\n\n\nLaghman\n\n\nMihtarlam\n\n\n−0.026\n\n\n−2.5\n\n\n\n\nHilmand\n\n\nLashkargah\n\n\n−0.024\n\n\n−2.4"
+  },
+  {
+    "objectID": "Online Appendix.html#h1-poppygrowing-districts-after-the-taliban-takeover",
+    "href": "Online Appendix.html#h1-poppygrowing-districts-after-the-taliban-takeover",
+    "title": "Online Appendix of Master Thesis",
+    "section": "H1: Poppy–Growing Districts After the Taliban takeover",
+    "text": "H1: Poppy–Growing Districts After the Taliban takeover\n\nYearly Event Study\n\n\nQuarterly Event Study"
+  },
+  {
+    "objectID": "Online Appendix.html#h1a-poppygrowing-districts-after-the-opium-ban",
+    "href": "Online Appendix.html#h1a-poppygrowing-districts-after-the-opium-ban",
+    "title": "Online Appendix of Master Thesis",
+    "section": "H1a: Poppy–Growing Districts After the Opium Ban",
+    "text": "H1a: Poppy–Growing Districts After the Opium Ban\n\nYearly Event Study\n\n\nQuarterly Event Study"
+  },
+  {
+    "objectID": "Online Appendix.html#h2-talibancontrolled-districts-after-the-taliban-takeover",
+    "href": "Online Appendix.html#h2-talibancontrolled-districts-after-the-taliban-takeover",
+    "title": "Online Appendix of Master Thesis",
+    "section": "H2: Taliban–Controlled Districts After the Taliban Takeover",
+    "text": "H2: Taliban–Controlled Districts After the Taliban Takeover\n\nYearly Event Study\n\nYearly Event Study: Taliban Control (Treatment Year 2021)\n\n\nevent_time\nestimate\nstd.error\np.value\nsignif\n\n\n\n\n-3\n0.0043841\n0.0010434\n0.0001891\n***\n\n\n-2\n0.0033563\n0.0010545\n0.0031743\n**\n\n\n0\n0.0003630\n0.0023891\n0.8801716\n\n\n\n1\n0.0094217\n0.0060245\n0.1273838\n\n\n\n2\n0.0024752\n0.0070580\n0.7280509\n\n\n\n3\n-0.0075310\n0.0069111\n0.2837431\n\n\n\n\n\n\nQuarterly Event Study\n\nQuarterly Event Study: Taliban Control (Treatment Year 2021)\n\n\nevent_time\nquarter\nestimate\nstd.error\np.value\nsignif\n\n\n\n\n-8\nQ3\n0.0699054\n0.0200970\n0.0014376\n**\n\n\n-7\nQ4\n0.0395019\n0.0226907\n0.0910214\n.\n\n\n-6\nQ1\n0.0081117\n0.0203551\n0.6928205\n\n\n\n-5\nQ2\n-0.0292351\n0.0230084\n0.2127462\n\n\n\n-4\nQ3\n0.1336406\n0.0290027\n0.0000583\n***\n\n\n-3\nQ4\n0.0831931\n0.0202507\n0.0002473\n***\n\n\n-2\nQ1\n0.0376790\n0.0131604\n0.0072361\n**\n\n\n0\nQ3\n0.0827584\n0.0203846\n0.0002838\n***\n\n\n1\nQ4\n0.1297274\n0.0251655\n0.0000117\n***\n\n\n2\nQ1\n0.0743988\n0.0139681\n0.0000070\n***\n\n\n3\nQ2\n0.0906673\n0.0173006\n0.0000091\n***\n\n\n4\nQ3\n0.0959506\n0.0252922\n0.0006019\n***\n\n\n5\nQ4\n0.0817719\n0.0297421\n0.0096106\n**\n\n\n6\nQ1\n0.0618980\n0.0188133\n0.0023880\n**\n\n\n7\nQ2\n0.0674097\n0.0288519\n0.0256915\n*\n\n\n8\nQ3\n0.1611561\n0.0293763\n0.0000044\n***"
+  },
+  {
+    "objectID": "Online Appendix.html#h3-nato-districts-after-the-taliban-takeover",
+    "href": "Online Appendix.html#h3-nato-districts-after-the-taliban-takeover",
+    "title": "Online Appendix of Master Thesis",
+    "section": "H3: NATO Districts After the Taliban Takeover",
+    "text": "H3: NATO Districts After the Taliban Takeover\n\nYearly Event Study\n\nYearly Event Study: NATO installation (Treatment Year 2021)\n\n\nevent_time\nestimate\nstd.error\np.value\nsignif\n\n\n\n\n-3\n-0.0024397\n0.0016535\n0.1495606\n\n\n\n-2\n-0.0018445\n0.0012808\n0.1592406\n\n\n\n0\n-0.0077268\n0.0041382\n0.0707818\n(.)\n\n\n1\n-0.0203490\n0.0116441\n0.0898375\n(.)\n\n\n2\n-0.0184493\n0.0131278\n0.1692585\n\n\n\n3\n-0.0156481\n0.0130918\n0.2405045\n\n\n\n\n\n\nQuarterly Event Study"
   }
 ]
